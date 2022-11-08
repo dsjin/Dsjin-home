@@ -26,6 +26,7 @@
   "dependencies": {
     "preact": "^10.1.0",
     "preact-render-to-string": "^5.1.2",
+    "react-social-icons": "^5.15.0",
     "react-typed": "^1.2.0"
   }
 }

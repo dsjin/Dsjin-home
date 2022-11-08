@@ -1,6 +1,6 @@
 {
-  "name": "dsjin-home",
-  "short_name": "dsjin-home",
+  "name": "DSJIN",
+  "short_name": "DSJIN",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
@@ -10,7 +10,7 @@
     {
       "src": "/assets/icon.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "48x48"
     }
   ]
 }
