@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "preact": "^10.1.0",
-    "preact-render-to-string": "^5.1.2"
+    "preact-render-to-string": "^5.1.2",
+    "react-typed": "^1.2.0"
   }
 }
