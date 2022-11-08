@@ -45,7 +45,7 @@ export default function Home() {
           <p
             class="md:leading-relaxed md:text-4xl text-2xl indent-12 md:indent-20 md:w-2/5"
           >
-            An orinary web full-stack developer who currently live in Japan (and a DOG person 🐕). I primarily focus on frontend developing but I am also learning about backend and CI/CD stuff.
+            An ordinary web full-stack developer who currently lives in Japan (and a DOG person 🐕). I primarily focus on frontend developing but I am also learning about backend and CI/CD stuff.
             I'm a little bit shy but feel free to contact me via these services below.
           </p>
         </div>
